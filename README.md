@@ -2,6 +2,18 @@
 
 Spoqa 사에서 공개한 폰트인 `Spoqa Han Sans` 을 Google Fonts 방식으로 최적화 한 버전입니다.
 
+## 👍 CDN
+
+### JSDelivr (Recommended)
+
+Raw 2.1.2 : <https://cdn.jsdelivr.net/gh/ddarkr/spoqa-han-sans-web@2.1.2/font.css>
+
+Minified 2.1.2 : <https://cdn.jsdelivr.net/gh/ddarkr/spoqa-han-sans-web@2.1.2/font.min.css>
+
+### RawCDN
+
+Production (2.1.2) : <https://rawcdn.githack.com/ddarkr/spoqa-han-sans-web/05789fd1463f295e13dabb55f5e460b445e749b8/font.min.css>
+
 ## ⚠️ 주의사항
 
 **`woff` 와 `woff2` 만 제공됩니다.**
